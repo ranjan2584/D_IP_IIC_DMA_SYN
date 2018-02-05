@@ -1,0 +1,8 @@
+#!gbuild
+[Auto Include]
+inc\i2c_soc_config.h
+inc\i2c_api.h
+inc\i2c_defines.h
+src\i2c_api.c
+
+

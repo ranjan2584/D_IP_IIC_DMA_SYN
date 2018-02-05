@@ -1,0 +1,7 @@
+#!gbuild
+[Auto Include]
+src\I2C_XRDC_test.c
+src\mpc57xx_I2C.c
+src\user_module.c
+
+
